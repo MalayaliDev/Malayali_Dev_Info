@@ -1,12 +1,11 @@
 <div align='center'>
- <a href="http://sobhan.epizy.com" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Mouse+Memoirs&size=50&pause=1000&width=500&height=80&center=true&vCenter=true&lines=Hello+Everyone+👋🏻;Welcome+to+my+profile!!;I'm+Mr.SINRE;I+am+a+newcomer+in+coding;I+would+like+to+learn+more;I+have+big+projects+in+mind;I'll+see+you+on+the+discord+server;Bye+👋🏻" alt="Typing SVG">
  </a>
 </div>
 
 <h1 align="center">About Me</h1>
 
-Hello my friend👋🏻, I am **Mr.Sinre** and my real name is **Sobhan**.
+Hello my friend👋🏻, I am **Malayali Developer** and my real name is **Malayali_Dev**.
 
 I am an ESFJ-A personality type. 
 I hate proud and lying people and I hate this behavior myself.
@@ -21,29 +20,9 @@ It was very exciting for me, then I decided to make more robots and that's what 
 Thus, by building several robots and manipulating them with the Javascript coding language, I learned this language without watching any training video, I did this in two months. 
 
 When I learned the Javascript coding language, I was able to create amazing robots. 
-I have created a bot for creating tickets in Discord in 2023 called [**Ticker Boy**](https://discord.com/oauth2/authorize?client_id=1101868490308198421&scope=bot+applications.commands&permissions=395674250441), which is very easy to work with it. 
-Please help me by inviting it to your discord server and using it. 
 
 Thank you so much for joining my Discord servers so we can talk more: 
-[**Development server**](https://dsc.gg/persian-caesar) and [**Community server**](https://dsc.gg/pc-club)
-
----
-
-<h1 align="center">Repositories</h1>
-<div align="center">
- 
-| 🗃 Projects | 📡 Status | ⚙️ Technology | ⭐ Stars | 🖨 Forks |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| [Aparat.js](https://github.com/Sobhan-SRZA/aparat.js) | **⚒** | ![Made with npm](https://badges.aleen42.com/src/npm.svg) ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/aparat.js?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/aparat.js?style=flat-square) |
-| [All For One Bot](https://github.com/Sobhan-SRZA/All-For-One-Bot) | **⚒** | ![Made with npm](https://badges.aleen42.com/src/npm.svg) ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/All-For-One-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/All-For-One-Bot?style=flat-square) |
-| [Ticker Boy](https://github.com/Persian-Caesar/Ticker-Boy) | **✅** | ![Made with npm](https://badges.aleen42.com/src/npm.svg) ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Ticker-Boy?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Ticker-Boy?style=flat-square) |
-| [Nuker Bot](https://github.com/Persian-Caesar/Anti-Nuker-Bot) | **✅** | ![Made with npm](https://badges.aleen42.com/src/npm.svg) ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) | ![Stars](https://img.shields.io/github/stars/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Persian-Caesar/Anti-Nuker-Bot?style=flat-square) |
-| [Machine Learning Color Contrast Picker](https://github.com/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker) | **✅** | ![Made with javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Made with html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Made with css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Machine-Learning-Color-Contrast-Picker?style=flat-square) |
-| [Simple Personal Website](https://github.com/Sobhan-SRZA/Personal-Website) | **✅** | ![Made with javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Made with html](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Made with css](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Personal-Website?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Personal-Website?style=flat-square) |
-| [How Create Discord Bot?](https://github.com/Sobhan-SRZA/How-Create-Discord-Bot) | **⚒** | ![Made with npm](https://badges.aleen42.com/src/npm.svg) ![Made with node.js](https://badges.aleen42.com/src/node.svg) ![Made with javascript](https://badges.aleen42.com/src/javascript.svg) ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/How-Create-Discord-Bot?style=flat-square) |
-| [Calculator Application](https://github.com/Sobhan-SRZA/Calculator-Application) | **✅** | ![Made with python](https://badges.aleen42.com/src/python.svg) | ![Stars](https://img.shields.io/github/stars/Sobhan-SRZA/Calculator-Application?style=flat-square) | ![Forks](https://img.shields.io/github/forks/Sobhan-SRZA/Calculator-Application?style=flat-square) |
-
-</div>
+[**Community server**]([https:(https://discord.gg/NhWFVREVVE)
 
 ---
 
@@ -120,23 +99,16 @@ Thank you so much for joining my Discord servers so we can talk more:
 # **Contact me in**
 
 <div align="center">
-  <a href="http://sobhan.epizy.com" target="_blank">
+  <a href="" target="_blank">
     <img align="left" src ="source/social-media.png" width = 50% >
-  </a>
-  <a href="https://t.me/pc_clubs" target="_blank">
-    <img alt="Telegram" src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=229ED9&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
   <a href="https://www.instagram.com/pc__clubs/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  </a>
-  <a href="https://www.twitch.tv/sobhan_srza" target="_blank">
-    <img alt="Twitch" src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=6441A4&logoColor=white&labelColor=&style=flat" height="30" />
-  </a>
-  <a href="https://www.youtube.com/@mr_sinre?app=desktop&sub_confirmation=1" target="_blank">
+  <a href="(https://www.youtube.com/@Malayali_Dev_00)" target="_blank">
     <img alt="YouTube" src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
-  <a href="https://github.com/Sobhan-SRZA" target="_blank">
+  <a href="(https://github.com/MalayaliDev)" target="_blank">
     <img alt="Github" src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=000000&logoColor=white&labelColor=&style=flat" height="30" />
   </a>
 </p>
